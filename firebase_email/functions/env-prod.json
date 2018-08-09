@@ -1,0 +1,9 @@
+{
+  "env": {
+    "mode": "prod"
+  },
+  "mail": {
+    "email": "XXXXXX@mts-system.com",
+    "password": "XXXXXX"
+  }
+}

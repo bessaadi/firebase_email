@@ -1,0 +1,9 @@
+{
+  "env": {
+    "mode": "dev"
+  },
+  "mail": {
+    "email": "XXXXXX@gmail.com",
+    "password": "xxxxxxx"
+  }
+}
