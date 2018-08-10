@@ -1,1 +1,1 @@
-# firebase_email
+# Sending emails with Firebase Cloud Functions
